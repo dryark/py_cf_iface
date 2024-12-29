@@ -1,5 +1,5 @@
 # Copyright (c) 2024 Dry Ark LLC
-# Anti-Corruption License
+# License AGPL 3.0
 
 # This code is only intended to work on MacOS
 # It may work on Posix platforms
